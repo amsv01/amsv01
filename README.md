@@ -112,9 +112,9 @@ Led teams building web platforms for brokers and real estate companies based on 
 - LinkedIn: [linkedin.com/in/aminmousavi01](https://www.linkedin.com/in/aminmousavi01)
 
 ![Static Badge](https://img.shields.io/badge/100%25-typescript?style=for-the-badge&logo=typescript&logoColor=white&label=TypeScript&color=black)
-![Static Badge](https://img.shields.io/badge/60%25-typescript?style=for-the-badge&logo=nodedotjs&logoColor=white&label=Node.js&color=black)
+![Static Badge](https://img.shields.io/badge/100%25-typescript?style=for-the-badge&logo=nodejs&logoColor=white&label=Node.js&color=black)
 ![Static Badge](https://img.shields.io/badge/40%25-typescript?style=for-the-badge&logo=react&logoColor=white&label=React.js&color=black)
-![Static Badge](https://img.shields.io/badge/5%25-typescript?style=for-the-badge&logo=openai&logoColor=white&label=OpenAI&color=black)
+![Static Badge](https://img.shields.io/badge/100%25-typescript?style=for-the-badge&logo=openai&logoColor=white&label=OpenAI&color=black)
 ![Static Badge](https://img.shields.io/badge/2%25-typescript?style=for-the-badge&logo=rust&logoColor=white&label=Rust&color=black)
 
 <!--
