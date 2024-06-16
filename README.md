@@ -6,6 +6,10 @@ I'm **Amin Mousavi**
 
 ## Experience
 
+As a Lead Engineer/Engineering Manager with extensive experience in fintech, media, and real estate technology sectors, I've demonstrated flexibility and adaptability across various roles. At Klarna, I've led cross-functional teams, managed complex product launches in the UK and US, and navigated significant organizational changes. My tenure at Viaplay AB saw me lead the team responsible for the Web Platform, while at Realtyna, I guided teams to build robust web platforms for brokers and real estate companies. Throughout my career, I've been deeply involved in team building, hiring, and coaching, shaping high-performing teams and guiding individual contributors from Junior to Senior and Lead Engineer roles.
+
+My experience equips me to communicate effectively with diverse stakeholders, lead complex projects to successful completion, and mentor team members for career advancement. By consistently aligning team efforts with business goals, enhancing customer experiences, and supporting the professional growth of my team members, I aim to make a significant contribution to any organization.
+
 ### Klarna AB (Sweden)
 **Lead Engineer (Smart Consumer AI)**  
 *April 2024 – Present*  
