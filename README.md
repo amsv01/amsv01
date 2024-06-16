@@ -6,7 +6,7 @@
 ## Experience
 
 ### Klarna AB (Sweden)
-**Lead Engineer (SCAI Leap)**  
+**Lead Engineer (Smart Consumer AI)**  
 *April 2024 – Present*  
 Building a revolutionary AI product for Klarna.
 
