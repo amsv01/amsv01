@@ -94,7 +94,7 @@ Led teams building web platforms for brokers and real estate companies based on 
 **Victor Conner - Engineer @ Viaplay Group**  
 *"Amin is one of the best engineers I've worked with. He is very smart, analytical, and hard working. Amin combines his years of engineering expertise with strong leadership skills to lead and mentor others. On top of this, he is also a really fun person to be around and liked by everyone. I was lucky to have him as my team lead."*
 
-**Hossain Alhaidari - Engineer @ Klarna**
+**Hossain Alhaidari - Engineer @ Klarna** 
 *"In all those years that I worked in Realtyna, I have met lots of frontend developers. I can say this with confident, that Amin was exceptional! With an amazing skill set and bleeding edge knowledge he pioneered modern development in the company and led the UI department very well! It was a great pleasure working with him; I have never worried about the frontend side of our projects as he handled them flawlessly. Looking forward to working with him again in the future."*
 
 **Amin Bahiraee - Senior Android Engineer @ DoorDash**
