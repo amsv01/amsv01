@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 I'm **Amin Mousavi**
-- 🔭 I’m currently working on a new AI product as part a poineer team @ Klarna
+- 🔭 I’m currently working on a new AI product @ **Klarna**
 - 🌱 I’m currently learning **Generative AI** and **Rust**
 
 ## Experience
