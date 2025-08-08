@@ -9,9 +9,13 @@ As a Lead Engineer/Engineering Manager with extensive experience in fintech, med
 My experience equips me to communicate effectively with diverse stakeholders, lead complex projects to successful completion, and mentor team members for career advancement. By consistently aligning team efforts with business goals, enhancing customer experiences, and supporting the professional growth of my team members, I aim to make a significant contribution to any organization.
 
 ### Klarna AB (Sweden)
+**Senior Engineering Manager (Consumer AI Workstream)**  
+*September 2024 – Present*
+Leading and building the next generation of AI products for Klarna.
+
 **Lead Engineer (Smart Consumer AI)**  
-*April 2024 – Present*  
-Building a revolutionary AI product for Klarna.
+*April 2024 – September*  
+Build Shopping Assistant for Klarna.
 
 **Engineering Manager L4 (Card Payments Experience)**  
 *May 2023 – April 2024*  
